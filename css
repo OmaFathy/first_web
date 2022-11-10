@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    text-align: center;
+    border-radius: 10px;
+}
+header,footer{
+    color: white;
+    background-color: #343a40;
+    padding: 20px;
+    
+
+}
+header{
+    margin-bottom: 30px; 
+}
+main{
+    margin: 20px 0;
+    background-color: #f8f9fa;
+    padding-top: 40px;
+}
+.main_test{
+    background-color: royalblue;
+    color:white;
+    width: 25%;
+    padding: 15px 0;
+    margin: 0 auto;
+}
+.card{
+    border: 2px solid black;
+    
+    margin: 40px ;
+    display: inline-block;
+    
+}
+.lesson_title
+{
+    color: white;
+    background: #55595c;
+    height: 100px;
+    padding-top: 15px;
+    padding: 20px 50px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+.note{
+    margin: 20px;
+}
+.ling_test{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    display: block;
+    width: 60%;
+    margin:0 auto 5px;
+
+}
